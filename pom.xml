@@ -8,7 +8,7 @@
 
   <groupId>fr.nathan818.maven.plugins</groupId>
   <artifactId>enhanced-maven-source-plugin</artifactId>
-  <version>3.2.1.0</version>
+  <version>3.3.0.0</version>
   <packaging>maven-plugin</packaging>
 
   <name>Enhanced Maven Source Plugin</name>
@@ -51,8 +51,8 @@
     <maven-javadoc-plugin.version>3.3.1</maven-javadoc-plugin.version>
     <maven-gpg-plugin.version>3.0.1</maven-gpg-plugin.version>
 
-    <maven-source-plugin.version>3.2.1</maven-source-plugin.version>
-    <maven-archiver.version>3.5.0</maven-archiver.version> <!-- from maven-source-plugin -->
+    <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
+    <maven-archiver.version>3.6.0</maven-archiver.version> <!-- from maven-source-plugin -->
     <nexus-staging-maven-plugin.version>1.6.7</nexus-staging-maven-plugin.version>
   </properties>
 
